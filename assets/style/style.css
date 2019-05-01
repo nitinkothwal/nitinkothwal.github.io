@@ -1,0 +1,53 @@
+body {
+    background-image: url(../images/bg_img.jpg);
+    background-attachment: fixed;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: #f7f3f3;
+}
+
+.page-center {
+    width: 100%;
+    margin-top: 7%;
+    text-align: center;
+    background-color: #383838;
+    opacity: 0.8;
+    padding: 30px;
+}
+
+.hello-text {
+    color: #fff;
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: 900;
+}
+
+.summary {
+    color: #fff;
+    font-size: 16px;
+}
+
+.social-links {
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+}
+
+.social-icon {
+    font-size: 30px;
+    color: #fff !important;
+    width: 70px;
+    height: 70px;
+    border: 1px solid #323232;
+    border-radius: 50%;
+    display: inline-block;
+    line-height: 65px;
+    margin: 20px 8px;
+    background: #373737;
+    opacity: 0.8;
+    margin-right: 8px;
+}
